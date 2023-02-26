@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719236403584",
+    "project_id": "webrtcapp-fd35e",
+    "storage_bucket": "webrtcapp-fd35e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719236403584:android:deb3660078346fd6793165",
+        "android_client_info": {
+          "package_name": "com.akjohn2304.WebRtcApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719236403584-o15tm209edubavdaj9omumqak2pi9hi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmxXCWZzytzq_EyeLgTxmHQ5aDQ3ByhOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719236403584-o15tm209edubavdaj9omumqak2pi9hi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
